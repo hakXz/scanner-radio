@@ -55,7 +55,3 @@ la-scanner-radio/
 - Audio streams require no login for standard quality feeds
 - Some feeds may be offline or region-restricted
 - This project is for personal/educational use only. Audio content belongs to Broadcastify and respective feed providers.
-
-## License
-
-MIT
